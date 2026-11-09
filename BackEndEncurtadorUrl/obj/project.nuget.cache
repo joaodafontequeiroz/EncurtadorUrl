@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHA96WAw2l0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaod\\OneDrive\\Documentos\\sebrae\\BackEnd EncurtadorUrl\\BackEndEncurtadorUrl\\BackEndEncurtadorUrl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaod\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.14\\microsoft.entityframeworkcore.10.0.14.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.14\\microsoft.entityframeworkcore.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.14\\microsoft.entityframeworkcore.analyzers.10.0.14.nupkg.sha512",
+    "C:\\Users\\joaod\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
